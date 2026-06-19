@@ -6,15 +6,19 @@ This project demonstrates the implementation of a cloud-based security monitorin
 
 ## Technologies Used
 
-- AWS EC2
-- AWS VPC
 - Wazuh SIEM
+- AWS Cloud
 - DVWA Application
-- CloudWatch
-- VPC Flow Logs
-- Amazon S3
 - Linux
 - Windows
+- AWS Services
+- VPC
+- VPC Flow Logs
+- CloudWatch
+- CloudTrail
+- IAM
+- Amazon S3
+
 
 ## Implemented Use Cases
 
